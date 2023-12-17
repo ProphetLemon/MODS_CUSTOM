@@ -22,7 +22,6 @@ Estos mods los tienes que bajar tú manualmente, el resto de mods están en la c
 - Terralith Mod
 - Regions Unexplored Mod
 - Biomes O’ Plenty Mod
-- Alex’s Caves Mod
 
 ## Estructuras
 - Awesome Dungeon Nether Mod
