@@ -1,6 +1,6 @@
 ﻿# Instalación
 La versión de Minecraft es 
-Estos mods los tienes que bajar tÚ manualmente, el resto de mods están en la carpeta de MODS cuando te bajas el _source code_ [aquí](https://github.com/ProphetLemon/MODS_CUSTOM/releases)
+Estos mods los tienes que bajar tú manualmente, el resto de mods están en la carpeta de MODS cuando te bajas el _source code_ [aquí](https://github.com/ProphetLemon/MODS_CUSTOM/releases)
 - [OptiFine HD U I6 pre6](https://optifine.net/adloadx?f=preview_OptiFine_1.20.1_HD_U_I6_pre6.jar)
 - [Forge 47.1.43](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.1.43/forge-1.20.1-47.1.43-installer.jar)
 
