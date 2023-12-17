@@ -1,8 +1,10 @@
 ﻿# Instalación
+Estos mods los tienes que bajar tu manualmente, el resto de mods estan en la carpeta de MODS cuando te bajas el _source code_ [aqui](https://github.com/ProphetLemon/MODS_CUSTOM/releases)
 - [OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.20.1_HD_U_I6_pre6.jar)
 - [Forge](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.1.43/forge-1.20.1-47.1.43-installer.jar)
 
-# Esenciales
+# Lista de Mods
+## Esenciales
 - JourneyMap Mod 
 - Jade Mod 
 - GraveStone Mod
@@ -11,34 +13,34 @@
 - TrashSlot
 - Sophisticated Backpacks
 
-# Biomas
+## Biomas
 - Terralith Mod
 - Regions Unexplored Mod
 - Biomes O’ Plenty Mod
 - Alex’s Caves Mod
 
-# Estructuras
+## Estructuras
 - Awesome Dungeon Nether Mod
 - Additional Structures Mod
 - Structory: Towers Mod
 - Overhauled Village Mod
 
-# Mobs
+## Mobs
 - Enderman Overhaul Mod
 - More Villagers Mod
 - Mutant Monsters Mod
 - Goblin Traders Mod
 - Naturalist Mod
 
-# Varios
+## Varios
 - Villager Names Mod
 - Chimes Mod
 
-# Porro 🚬
+## Porro 🚬
 - Chance Cubes Mod
 - Weather, Storms & Tornadoes Mod
 
-# Dependencias
+## Dependencias
 - Balm
 - TerraBlender
 - CoroUtil
